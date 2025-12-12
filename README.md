@@ -1,3 +1,3 @@
 # MDM-Scripts
 
-All scripts are AAS IS. Please do your own testing before use. 
+All scripts are AS IS. Please do your own testing before use. 
